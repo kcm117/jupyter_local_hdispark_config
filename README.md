@@ -43,3 +43,7 @@ The script will prompt you to enter your cluster name and credentials.  It will 
     
  ## Using the Spark Context
  
+ After configuration, new kernels should appear in Jupyter Notebook:
+ 
+ ![alt text](https://github.com/kcm117/jupyter_local_hdispark_config/blob/master/screenshots/new_notebook.png?raw=true)
+ 
